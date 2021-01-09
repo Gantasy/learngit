@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 mytest
 fuckyou!
+这好吗，这不好
