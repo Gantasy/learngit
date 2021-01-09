@@ -5,3 +5,4 @@ Git tracks changes of files.
 mytest
 fuckyou!
 这好吗，这不好
+太棒了，我逐渐理解一切
