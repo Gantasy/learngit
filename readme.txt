@@ -1,10 +1,3 @@
-Git is a distributed version control aystem.
-Git is free software.
-Git has a mutable index called stage.
-Git tracks changes of files.
-mytest
-fuckyou!
-这好吗，这不好
-太棒了，我逐渐理解一切
-我是第四版
-我重新添加了一个分支（假设这有个bug被我修好了）
+我在master
+这里出了个bug
+这里是我本来在做的
