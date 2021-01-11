@@ -4,4 +4,5 @@
 我开始写东西，冲冫
 [devtest]
 这里是devtest内容
+我有个朋友在这里写啊写
 [/devtest]
