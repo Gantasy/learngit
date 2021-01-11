@@ -4,4 +4,5 @@
 我开始写东西，冲冫
 [devtest]
 这里是devtest内容
+这是我本人写的，不是我朋友写的
 [/devtest]
